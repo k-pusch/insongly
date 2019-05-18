@@ -1,7 +1,11 @@
 # insongly
 ![in songly](https://github.com/k-pusch/insongly/blob/master/insongly/images/insongly_klein.png "insongly")
 <br>
-visualize song insights based on your top 50 songs played on spotify over the last month
+
+this project visualize your most played 50 songs over the last time.
+using vue.js and the spotify api, deployed via surge.
+
+just check it out: [insongly](https://insongly.surge.sh)
 
 ## setup
 install all dependencies and start localhost
@@ -24,5 +28,5 @@ yarn run build
 deploy build version via surge. just type in your shell:
 ```
 cd insongly/dist
-surge
+surge --domain https://insongly.surge.sh
 ```
