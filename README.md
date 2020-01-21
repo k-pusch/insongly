@@ -2,6 +2,8 @@
 ![in songly](https://github.com/k-pusch/insongly/blob/master/insongly/images/insongly_klein.png "insongly")
 <br>
 
+the project was developed within the context of a hackathon
+
 this project visualize your most played 50 songs over the last time.
 using vue.js and the spotify api, deployed via surge.
 
